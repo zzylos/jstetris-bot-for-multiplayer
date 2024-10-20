@@ -11,7 +11,7 @@ Integration of [tetris-ai](https://github.com/vanflux/tetris-ai) with JSTris web
 
 *I'm not responsible by your actions and consequences! You (probably) will be banned!*
 
- DON'T Play only on practice mode(only you) or with a friend who KNOWS you are using bot.
+ DON'T play only on practice mode.
 
 Based on [web-game-hacking-boilerplate](https://github.com/vanflux/web-game-hacking-boilerplate.git).
 
