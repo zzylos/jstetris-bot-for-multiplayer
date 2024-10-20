@@ -20,7 +20,7 @@ Based on [web-game-hacking-boilerplate](https://github.com/vanflux/web-game-hack
 
 ## Chrome
 
-- Download latest release `jstris-bot-chrome.zip`
+- Download latest release `jstris-bot-chrome-multiplayer.zip`
 - Unzip to some location on your PC
 - Go to url `chrome://extensions`
 - Enable development mode
@@ -28,7 +28,7 @@ Based on [web-game-hacking-boilerplate](https://github.com/vanflux/web-game-hack
 
 ## Firefox
 
-- Download latest release `jstris-bot-firefox.zip`
+- Download latest release `jstris-bot-firefox-multiplayer.zip`
 - Go to url `about:debugging`
 - Go to `This Firefox`
 - Load temporary add-ons and pick the .zip
