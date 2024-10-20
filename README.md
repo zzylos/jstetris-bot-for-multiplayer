@@ -1,4 +1,4 @@
-# JSTris Bot
+# JSTris Bot but usable outside practice
 
 <p align="center">
   <image src="public/icon128.png"></image>
@@ -9,13 +9,15 @@
 
 Integration of [tetris-ai](https://github.com/vanflux/tetris-ai) with JSTris website.
 
-*Don't play on LIVE matches. I'm not responsible by your actions and consequences! You will be banned!*
+*I'm not responsible by your actions and consequences! You (probably) will be banned!*
 
-Play only on practice mode(only you) or with a friend who KNOWS you are using bot.
+ DON'T Play only on practice mode(only you) or with a friend who KNOWS you are using bot.
 
 Based on [web-game-hacking-boilerplate](https://github.com/vanflux/web-game-hacking-boilerplate.git).
 
 # Usage
+
+#Note: Releases are still being compiled
 
 ## Chrome
 
