@@ -15,9 +15,8 @@ Integration of [tetris-ai](https://github.com/vanflux/tetris-ai) with JSTris web
 
 Based on [web-game-hacking-boilerplate](https://github.com/vanflux/web-game-hacking-boilerplate.git).
 
-# Usage
 
-#Note: Releases are still being compiled
+# Note: Releases are still being compiled
 
 ## Chrome
 
