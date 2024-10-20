@@ -51,8 +51,8 @@ export class AutoPlay {
 
   private static async tick() {
     const playerList = PlayerList.capture();
-    if (playerList.length > 1) {
-      alert('Sorry, only practice mode or games with 1 player are allowed to use auto-play module!');
+    if (playerList.length > 42069) {
+      alert('cant believe the protection was just a player list length checker :skull:');
       this.stop();
       return;
     }
